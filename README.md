@@ -1,16 +1,88 @@
-## Hi there 👋
+# Hi, I'm Arshik Ahmmad👋
 
-<!--
-**arshikroly/arshikroly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Support & Networking Professional | Cybersecurity Learner 🔐
 
-Here are some ideas to get you started:
+I'm an IT professional with a background in **IT Support and Networking**, currently building my skills in **Cybersecurity, Vulnerability Assessment, VAPT, and Web Security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+
+* 🔐 Cybersecurity Fundamentals
+* 🌐 Networking & Network Security
+* 🔎 Vulnerability Assessment
+* 🛡️ Web Security
+* 🧪 Nmap & NSE
+* 🕵️ Bug Bounty & Responsible Disclosure
+* 📝 Professional Security Reporting
+
+## 🛠️ Skills I'm Building
+
+**Networking**
+
+* TCP/IP
+* DNS
+* HTTP/HTTPS
+* TCP/UDP
+* Network Troubleshooting
+
+**Security Tools**
+
+* Nmap
+* Nmap NSE
+* Linux / Kali Linux
+* Burp Suite
+
+**Cybersecurity**
+
+* Reconnaissance
+* Vulnerability Assessment
+* Web Security
+* Security Testing
+* Vulnerability Reporting
+
+## 📚 Learning Journey
+
+```text
+IT Support
+    ↓
+Networking
+    ↓
+Cybersecurity Fundamentals
+    ↓
+Vulnerability Assessment
+    ↓
+Web Security
+    ↓
+VAPT
+    ↓
+Bug Bounty
+```
+
+## 🚀 Current Project
+
+I'm documenting my hands-on cybersecurity learning journey, including:
+
+* Network scanning
+* Service enumeration
+* Nmap & NSE practice
+* Vulnerability assessment
+* Security findings
+* Evidence collection
+* Professional reporting
+
+## 📂 Portfolio
+
+More cybersecurity labs, notes, tools, and security reports will be added as I progress.
+
+---
+
+### ⚠️ Disclaimer
+
+All security testing documented here is performed in authorized labs, personal systems, or environments where I have permission to test.
+
+### 📫 Connect With Me
+
+**LinkedIn:** MD Arshik Ahmmad
+
+---
+
+⭐ Learning every day. Building practical cybersecurity skills step by step.
